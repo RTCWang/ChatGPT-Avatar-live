@@ -1,0 +1,9 @@
+{
+    "properties": [
+        {
+            "property": "cloth_xiezi",
+            "value": "{@builtin_abpath}/m-shoes02_pkg/shoes.prefab",
+            "type": "shoes"
+        }
+    ]
+}

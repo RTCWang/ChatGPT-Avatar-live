@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 461823841
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: afe12980729318fbd9e1bba843b18eb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4ff05ef4c22e8eeecbab0dce10af408a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABSrc/earphone/Earphone1/prefab/urp/Earphone1.prefab
+- Assets/ABSrc/earphone/Earphone1/textures/Erji_Normal.png
+- Assets/ABSrc/earphone/Earphone1/textures/Erji_Metallic 1.png
+- Assets/Shader/URP/ZegoLit.shader
+- Assets/ABSrc/earphone/Earphone1/textures/Erji_BaseColor.png
+- Assets/ABSrc/earphone/Earphone1/material/urp/pasted__blinn3.mat
+- Assets/ABSrc/earphone/Earphone1/FBX/Mate_Headset_Mesh_Bind_01.fbx
+Dependencies: []

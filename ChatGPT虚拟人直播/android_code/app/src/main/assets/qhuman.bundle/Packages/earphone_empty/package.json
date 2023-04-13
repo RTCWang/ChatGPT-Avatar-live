@@ -1,0 +1,21 @@
+{
+    "properties": [
+        {
+            "extInfo": {
+                "images": null,
+                "updateBlendshape": [
+                    {
+                        "nodeName": "Hair",
+                        "blendshape": {
+                            "ZEGOQ_Hair.HairShape_Headset_01": 0.0
+                        }
+                    }
+                ],
+                "magicaConfig": null
+            },
+            "property": "{\"type\":\"prefab\",\"id\":\"Earphone\"}",
+            "value": "",
+            "type": "earphone"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "properties": [
+    {
+      "extInfo": {
+        "images": [
+          "{@builtin_abpath}/zegoq_share_shoes_0001_pkg/ZEGOQ_Share_Shoes_0001_0001_Mask_Man.tga"
+        ]
+      },
+      "property": "cloth_xiezi",
+      "value": "{@builtin_abpath}/zegoq_share_shoes_0001_pkg/ZEGOQ_Share_Shoes_0001.prefab",
+      "type": "shoes"
+    }
+  ],
+  "version": "",
+  "sdkVersion": "",
+  "platform": "android"
+}

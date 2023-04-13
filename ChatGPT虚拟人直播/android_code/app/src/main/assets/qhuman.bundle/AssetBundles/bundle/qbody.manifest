@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 269397789
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9060108aab8851d5075b162889bc9dde
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 13ea81a0e25dc943143346b3ffc9c07b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 95a15aa59f941764a9ac8c746b2f883b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 46ec582e8d6cb504fb1d0160568835a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0617f069c919f4c528e30579418bc738, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 91b7d1e9b933f4dbf9801778e3076075, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26f1ef9d2422c4d4ab5d2c1b0b13f247, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa7c554d079f94ea390e15dbb4359726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a9081d48ba9fc48a9a3ea13d16d2d900, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26ab152f918e84182ab0dcf204824cee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f1325f8f405c46eaa9927cbd2b22710, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf44f777bb5e541498d7b95c8e96d653, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b1e084b2b41043ea889123c467f314f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b90de5dadd334786a8bae73429aa48b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/InnerSrc/QQ_model/model/urp/Girl.prefab
+- Assets/InnerSrc/QQ_model/model/urp/Boy.prefab
+Dependencies: []

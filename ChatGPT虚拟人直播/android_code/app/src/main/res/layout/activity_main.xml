@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#26333B"
+    tools:context=".activity.MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="50dp"
+            android:textColor="@color/white"
+            android:text="ChatGPT虚拟人直播"
+            android:textSize="36dp" />
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="60dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="房    间："
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+
+            <EditText
+                android:id="@+id/roomId"
+                android:layout_width="200dp"
+                android:layout_height="30dp"
+                android:background="@drawable/bg_edit"
+                android:inputType="number"
+                android:lines="1"
+                android:maxLength="8"
+                android:paddingHorizontal="8dp"
+                android:text="6666"
+                android:textColor="#26333B" />
+        </LinearLayout>
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="30dp"-->
+<!--            android:layout_marginTop="8dp">-->
+
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="性    别："-->
+<!--                android:textColor="@color/white"-->
+<!--                android:textSize="24sp" />-->
+
+<!--            <RadioGroup-->
+<!--                android:id="@+id/sex_rg"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="horizontal">-->
+
+<!--                <RadioButton-->
+<!--                    android:id="@+id/sex_man"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:background="@drawable/man_radiobutton"-->
+<!--                    android:button="@null"-->
+<!--                    android:checked="true"-->
+<!--                    android:gravity="center"-->
+<!--                    android:text="男"-->
+<!--                    android:textColor="@color/white"-->
+<!--                    android:textSize="20sp" />-->
+
+<!--                <RadioButton-->
+<!--                    android:id="@+id/sex_woman"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginLeft="30dp"-->
+<!--                    android:background="@drawable/woman_radiobutton"-->
+<!--                    android:button="@null"-->
+<!--                    android:gravity="center"-->
+<!--                    android:text="女"-->
+<!--                    android:textColor="@color/white"-->
+<!--                    android:textSize="20sp" />-->
+<!--            </RadioGroup>-->
+<!--        </LinearLayout>-->
+
+        <Button
+            android:id="@+id/enterBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_btn"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="100dp"
+            android:text="进入房间" />
+        <Button
+            android:id="@+id/createBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/bg_btn"
+            android:text="创建房间" />
+    </LinearLayout>
+</FrameLayout>

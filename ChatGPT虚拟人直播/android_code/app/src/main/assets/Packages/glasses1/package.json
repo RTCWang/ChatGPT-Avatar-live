@@ -1,0 +1,9 @@
+{
+    "properties": [
+        {
+            "property": "{\"type\":\"prefab\",\"id\":\"Glasses\"}",
+            "value": "{@builtin_abpath}/glasses1_pkg/Glasses1.prefab",
+            "type": "glasses"
+        }
+    ]
+}

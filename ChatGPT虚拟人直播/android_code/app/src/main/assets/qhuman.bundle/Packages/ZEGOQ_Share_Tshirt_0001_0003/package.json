@@ -1,0 +1,26 @@
+{
+  "properties": [
+    {
+      "extInfo": {
+        "images": [
+          "{@builtin_abpath}/zegoq_share_tshirt_0001_0003_pkg/ZEGOQ_Share_Tshirt_0001_0001_Mask_Man.tga",
+          "{@builtin_abpath}/zegoq_share_tshirt_0001_0003_pkg/ZEGOQ_Share_Tshirt_0001_0001_Mask_Girl.tga"
+        ],
+        "updateBlendshape": null,
+        "magicaConfig": null
+      },
+      "property": "cloth_shangyi",
+      "value": "{@builtin_abpath}/zegoq_share_tshirt_0001_0003_pkg/ZEGOQ_Share_Tshirt_0001_0003.prefab",
+      "type": "shirt"
+    },
+    {
+      "extInfo": null,
+      "property": "cloth_taozhuang",
+      "value": "",
+      "type": "suit"
+    }
+  ],
+  "version": "1.2.0",
+  "sdkVersion": "1.2.0",
+  "platform": "android"
+}

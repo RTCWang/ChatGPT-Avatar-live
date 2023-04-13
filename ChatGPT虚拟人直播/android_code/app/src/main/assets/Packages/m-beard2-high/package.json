@@ -1,0 +1,9 @@
+{
+    "properties": [
+        {
+            "property": "{\"id\":\"Beard\",\"type\":\"script\"}",
+            "value": "{\"FurNoise\":\"{@builtin_abpath}/m-beard2-high_pkg/BeardNoise2.png\"}",
+            "type": "beard"
+        }
+    ]
+}

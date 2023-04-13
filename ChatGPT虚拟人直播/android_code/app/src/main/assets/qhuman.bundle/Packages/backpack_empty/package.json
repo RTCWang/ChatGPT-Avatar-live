@@ -1,0 +1,17 @@
+{
+  "properties": [
+    {
+      "extInfo": {
+        "images": null,
+        "updateBlendshape": null,
+        "magicaConfig": null
+      },
+      "property": "Props_Backpack",
+      "value": "",
+      "type": "backpack"
+    }
+  ],
+  "version": "1.0.0",
+  "sdkVersion": "1.0.0",
+  "platform": "ios"
+}

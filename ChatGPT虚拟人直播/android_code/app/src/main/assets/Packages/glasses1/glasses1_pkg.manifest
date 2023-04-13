@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1024788511
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0dffc7616c852f4d9ef5df0ecead3ea7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a9640e6659674ba7c4bc4d763d948ab5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Glasses-sky.jpg
+- Assets/ABSrc/glasse/Glasses1/urp/yj_lens4.mat
+- Assets/ABSrc/glasse/Glasses1/urp/yj_metalsides4.mat
+- Assets/ABSrc/glasse/Glasses1/ZEGO_Mate_Glass_Mesh_01.fbx
+- Assets/ABSrc/glasse/Glasses1/urp/lambert2.mat
+- Assets/Shader/URP/SingleTexture.shader
+- Assets/Shader/URP/ZegoLit.shader
+- Assets/ABSrc/glasse/Glasses1/urp/yj_sides4.mat
+- Assets/ABSrc/glasse/Glasses1/urp/yj_frame4.mat
+- Assets/ABSrc/glasse/Glasses1/urp/Glasses1.prefab
+- Assets/ABSrc/glasse/Glasses1/urp/yj_metalballs4.mat
+- Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+- Assets/Shader/URP/Human/GlassesLens.shader
+Dependencies: []

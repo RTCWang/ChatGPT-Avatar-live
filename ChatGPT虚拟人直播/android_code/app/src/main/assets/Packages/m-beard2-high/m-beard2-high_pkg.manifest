@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1061072321
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3aa1ce44a4ae2e0b535d0056f9f9ba2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABSrc/image/beard/BeardNoise2.png
+Dependencies: []

@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3425408960
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2d2d1ec9bf0fe16a3c8279ac0a0fd49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 627f45f44ac477778df688c099eb8bb6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a9662f652e6df4ae6bf6cdfb3bc83151, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a9881c5b81a1a4a19bb651acf30ea2ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c24d0837345cb4eacbf68ed2b95c9b1b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABSrc/hair/female-hair/hair2/hair2/urp/F-Hair2.prefab
+- Assets/InnerSrc/hair/urp/hair_common.mat
+- Assets/ABSrc/hair/female-hair/hair2/hair2/zego_meta_girl_hair2.fbx
+- Assets/ABSrc/hair/texture/hair_comb(anis_ao).png
+- Assets/Shader/URP/Human/ZegoHair(comb).shader
+- Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+Dependencies: []

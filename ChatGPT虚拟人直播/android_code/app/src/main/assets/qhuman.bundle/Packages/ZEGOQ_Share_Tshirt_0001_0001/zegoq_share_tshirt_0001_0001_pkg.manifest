@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2610147044
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f25c26070c561467e82055169c5d05d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d2c055144642f8db1fe4ebc698f8be03
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 606b5b12aecc44448b7df9bb292600fa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Src/Avatar_Q/cloth_shangyi/ZEGOQ_Share_Tshirt_0001_0001/ZEGOQ_Share_Tshirt_0001.fbx
+- Assets/Src/Avatar_Q/cloth_shangyi/ZEGOQ_Share_Tshirt_0001_0001/ZEGOQ_Share_Tshirt_0001_0001_Mask_Man.tga
+- Assets/Src/Avatar_Q/cloth_shangyi/ZEGOQ_Share_Tshirt_0001_0001/ZEGOQ_Share_Tshirt_0001_0001.prefab
+- Assets/Src/Avatar_Q/cloth_shangyi/ZEGOQ_Share_Tshirt_0001_0001/textures/Zego_Q_Share_Tshirt_0001_0001_BaseColor.tga
+- Assets/Src/Avatar_Q/cloth_shangyi/ZEGOQ_Share_Tshirt_0001_0001/textures/ZEGO_Q_Share_Tshirt_0001_0001_Normal.tga
+- Assets/Src/Avatar_Q/cloth_shangyi/ZEGOQ_Share_Tshirt_0001_0001/textures/ZEGO_Q_Share_Tshirt_0001_0001_Metalness_Roughness.tga
+- Assets/Src/Avatar_Q/cloth_shangyi/ZEGOQ_Share_Tshirt_0001_0001/Materials/ZEGOQ_Share_Tshirt_0001_Shder_0001.mat
+- Assets/Src/Avatar_Q/cloth_shangyi/ZEGOQ_Share_Tshirt_0001_0001/ZEGOQ_Share_Tshirt_0001_0001_Mask_Girl.tga
+- Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+Dependencies: []

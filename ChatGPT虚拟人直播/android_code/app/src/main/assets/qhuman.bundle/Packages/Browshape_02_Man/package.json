@@ -1,0 +1,15 @@
+{
+  "properties": [
+    {
+      "extInfo": {
+        "images": null
+      },
+      "property": "shapeplugin_browshape",
+      "value": "{@builtin_abpath}/browshape_02_man_pkg/Browshape_02_Man.prefab",
+      "type": "browshape"
+    }
+  ],
+  "version": null,
+  "sdkVersion": null,
+  "platform": "android"
+}

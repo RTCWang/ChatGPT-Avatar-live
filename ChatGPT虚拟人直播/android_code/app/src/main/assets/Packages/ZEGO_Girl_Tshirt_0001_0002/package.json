@@ -1,0 +1,14 @@
+{
+    "properties": [
+
+        {
+            "property": "cloth_shangyi",
+            "value": "{@builtin_abpath}/f-shirt02_pkg/shirt.prefab",
+            "type": "shirt"
+        },{
+            "property": "cloth_taozhuang",
+            "value": "",
+            "type": "suit"
+        }
+    ]
+}

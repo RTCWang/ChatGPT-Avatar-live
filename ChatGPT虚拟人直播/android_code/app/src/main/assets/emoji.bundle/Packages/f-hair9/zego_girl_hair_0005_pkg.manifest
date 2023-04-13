@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2116274444
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 291040475591f6f4353098ae9232205f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d2be0819c0f0886fb2bd5c37c1427b8d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0fc74db9faf841f1a62ae5db3112a8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9a46f10ea60e452a9b608a72d4e416c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 606b5b12aecc44448b7df9bb292600fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6469ef53c48c4609941f1c1d115e30d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Src/Avatar/Hair/ZEGO_Girl_Hair_0005/ZEGO_Girl_Hair_0005_Shader_0001.mat
+- Assets/Materials/Q_Avatar/materials/hair/hair_ao.tga
+- Assets/Src/Avatar/Hair/ZEGO_Girl_Hair_0005/ZEGO_Girl_Hair_0005.fbx
+- Assets/Src/Avatar/Hair/ZEGO_Girl_Hair_0005/ZEGO_Girl_Hair_0005.prefab
+- Assets/Src/Avatar/Hair/ZEGO_Girl_Hair_0005/textures/img_v2_9a7f7e32-70c1-4b48-98cf-faa9ce8a663g.png
+- Assets/Shader/URP/Human/ZegoHair(comb).shader
+- Assets/Materials/Q_Avatar/materials/hair/hair_low_blinn43_Emission.tga
+- Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+Dependencies: []

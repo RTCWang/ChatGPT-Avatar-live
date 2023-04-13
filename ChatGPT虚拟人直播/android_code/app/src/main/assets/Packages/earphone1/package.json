@@ -1,0 +1,9 @@
+{
+    "properties": [
+        {
+            "property": "{\"type\":\"prefab\",\"id\":\"Earphone\"}",
+            "value": "{@builtin_abpath}/earphone1_pkg/Earphone1.prefab",
+            "type": "earphone"
+        }
+    ]
+}

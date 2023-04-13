@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChatGPT虚拟直播</string>
+    <item type="id" name="tag_inner_entity"></item>
+</resources>

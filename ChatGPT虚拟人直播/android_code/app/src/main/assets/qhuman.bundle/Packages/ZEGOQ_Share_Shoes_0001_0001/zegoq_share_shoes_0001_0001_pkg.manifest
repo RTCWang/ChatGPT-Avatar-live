@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 662626627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24c5cf988514e2db5cc120e9fb510d80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ca1abd321a66761062f7ab099cbf2dfd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f61cbd4930e54a5185620fbcb6829ff, type: 3}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Src/Avatar_Q/cloth_xiezi/ZEGOQ_Share_Shoes_0001_0001/ZEGOQ_Share_Shoes_0001_0001.fbx
+- Assets/Src/Avatar_Q/cloth_xiezi/ZEGOQ_Share_Shoes_0001_0001/textures/ZEGO_Q_Share_Shoes_0001_0001_Basecolor.tga
+- Assets/Src/Avatar_Q/cloth_xiezi/ZEGOQ_Share_Shoes_0001_0001/Materials/ZEGOQ_Share_Shoes_0001_Shader_0001.mat
+- Assets/Src/Avatar_Q/cloth_xiezi/ZEGOQ_Share_Shoes_0001_0001/textures/ZEGO_Q_Share_Shoes_0001_0001_Normal.tga
+- Assets/Src/Avatar_Q/cloth_xiezi/ZEGOQ_Share_Shoes_0001_0001/textures/ZEGO_Q_Share_Shoes_0001_0001_Ao.tga
+- Assets/Src/Avatar_Q/cloth_xiezi/ZEGOQ_Share_Shoes_0001_0001/textures/ZEGO_Q_Share_Shoes_0001_0001_Metalness_Roughness.tga
+- Assets/Src/Avatar_Q/cloth_xiezi/ZEGOQ_Share_Shoes_0001_0001/ZEGOQ_Share_Shoes_0001_0001_Mask_Man.tga
+- Assets/Src/Avatar_Q/cloth_xiezi/ZEGOQ_Share_Shoes_0001_0001/ZEGOQ_Share_Shoes_0001_0001.prefab
+- Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+- Assets/Src/Avatar_Q/cloth_xiezi/ZEGOQ_Share_Shoes_0001_0001/ZEGOQ_Share_Shoes_0001_0001_Mask_Girl.tga
+Dependencies: []

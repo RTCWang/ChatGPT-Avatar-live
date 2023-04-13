@@ -1,0 +1,9 @@
+{
+    "properties": [
+        {
+            "property": "{\"classify\":\"combiner\",\"id\":\"combinermakeup_facepaint\",\"matName\":\"Skin\",\"matNodeName\":\"ZEGO_Shape\",\"type\":\"mat_property\"}",
+            "value": "{@builtin_abpath}/facepaint5_pkg/Facepaint5.png",
+            "type": "facepaint"
+        }
+    ]
+}

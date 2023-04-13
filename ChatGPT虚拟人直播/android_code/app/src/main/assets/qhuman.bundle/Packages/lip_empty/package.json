@@ -1,0 +1,15 @@
+{
+    "properties": [
+      {
+        "extInfo": {
+          "rougeSmoothness": 0.0
+        },
+        "property": "{\"classify\":\"combiner\",\"id\":\"combinermakeup_lip\",\"matName\":\"Skin\",\"matNodeName\":\"ZEGO_Shape\",\"type\":\"mat_property\"}",
+        "value": "",
+        "type": "combinermakeup_lip"
+      }
+    ],
+    "version": "1.0.0",
+    "sdkVersion": "1.0.0",
+    "platform": "android"
+  }

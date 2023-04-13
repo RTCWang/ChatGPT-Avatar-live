@@ -1,0 +1,25 @@
+{
+  "properties": [
+    {
+      "extInfo": {
+        "images": [
+          "{@builtin_abpath}/zegoq_girl_pants_0002_0001_pkg/ZEGOQ_Girl_Pants_0002_0001_Mask_Girl.tga"
+        ],
+        "updateBlendshape": null,
+        "magicaConfig": "{@builtin_abpath}/zegoq_girl_pants_0002_0001_pkg/magicaConfig.json"
+      },
+      "property": "cloth_kuzi",
+      "value": "{@builtin_abpath}/zegoq_girl_pants_0002_0001_pkg/ZEGOQ_Girl_Pants_0002_0001.prefab",
+      "type": "pants"
+    },
+    {
+      "extInfo": null,
+      "property": "cloth_taozhuang",
+      "value": "",
+      "type": "suit"
+    }
+  ],
+  "version": "1.2.0",
+  "sdkVersion": "1.2.0",
+  "platform": "android"
+}

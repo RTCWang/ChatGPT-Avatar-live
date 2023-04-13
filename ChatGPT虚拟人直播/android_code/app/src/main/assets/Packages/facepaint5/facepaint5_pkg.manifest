@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1576501807
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59fcb3fab38dae56ece2efe9aa35e802
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABSrc/image/facepaint/Facepaint5.png
+Dependencies: []

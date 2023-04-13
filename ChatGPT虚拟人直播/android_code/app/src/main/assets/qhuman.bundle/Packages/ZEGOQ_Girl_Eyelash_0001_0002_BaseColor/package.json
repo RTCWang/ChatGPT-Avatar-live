@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "extInfo": null,
+      "property": "{\"classify\":\"texture\",\"id\":\"_BaseMap\",\"matName\":\"eyelash\",\"matNodeName\":\"ZEGOQ_Eyelashes_Mesh\",\"type\":\"mat_property\"}",
+      "value": "{@builtin_abpath}/zegoq_girl_eyelash_0001_0002_basecolor_pkg/ZEGOQ_Girl_Eyelash_0001_0002_BaseColor.tga",
+      "type": "eyelash"
+    }
+  ],
+  "version": null,
+  "sdkVersion": null,
+  "platform": "android"
+}

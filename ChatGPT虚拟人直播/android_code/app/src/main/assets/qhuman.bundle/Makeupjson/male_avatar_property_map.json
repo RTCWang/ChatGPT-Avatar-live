@@ -1,0 +1,179 @@
+{
+  "hair_detection_map": {
+    "default_hair_key": "ZEGOQ_Share_Hair_0001",
+    "ZEGOQ_Girl_Hair_0004": {
+      "hair_infos": [
+        {"length": 0, "forehead": 0, "ponytail": 0},
+        {"length": 0, "forehead": 0, "ponytail": 1},
+        {"length": 0, "forehead": 3, "ponytail": 0},
+        {"length": 0, "forehead": 3, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Girl_Hair_0008": {
+      "hair_infos": [
+        {"length": 0, "forehead": 1, "ponytail": 0},
+        {"length": 0, "forehead": 1, "ponytail": 1},
+        {"length": 0, "forehead": 2, "ponytail": 0},
+        {"length": 0, "forehead": 2, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Girl_Hair_0002": {
+      "hair_infos": [
+        {"length": 0, "forehead": 4, "ponytail": 0},
+        {"length": 0, "forehead": 4, "ponytail": 1},
+        {"length": 0, "forehead": 8, "ponytail": 0},
+        {"length": 0, "forehead": 8, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Girl_Hair_0009": {
+      "hair_infos": [
+        {"length": 0, "forehead": 5, "ponytail": 0},
+        {"length": 0, "forehead": 5, "ponytail": 1},
+        {"length": 0, "forehead": 6, "ponytail": 0},
+        {"length": 0, "forehead": 6, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Girl_Hair_0007": {
+      "hair_infos": [
+        {"length": 0, "forehead": 7, "ponytail": 0},
+        {"length": 0, "forehead": 7, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Girl_Hair_0010": {
+      "hair_infos": [
+        {"length": 1, "forehead": 0, "ponytail": 0},
+        {"length": 1, "forehead": 1, "ponytail": 0},
+        {"length": 1, "forehead": 2, "ponytail": 0},
+        {"length": 1, "forehead": 3, "ponytail": 0}
+      ]
+    },
+    "ZEGOQ_Share_Hair_0016": {
+      "hair_infos": [
+        {"length": 1, "forehead": 0, "ponytail": 1},
+        {"length": 1, "forehead": 1, "ponytail": 1},
+        {"length": 1, "forehead": 2, "ponytail": 1},
+        {"length": 1, "forehead": 3, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Girl_Hair_0012": {
+      "hair_infos": [
+        {"length": 1, "forehead": 4, "ponytail": 0},
+        {"length": 1, "forehead": 8, "ponytail": 0}
+      ]
+    },
+    "ZEGOQ_Girl_Hair_0013": {
+      "hair_infos": [
+        {"length": 1, "forehead": 4, "ponytail": 1},
+        {"length": 1, "forehead": 8, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Girl_Hair_0011": {
+      "hair_infos": [
+        {"length": 1, "forehead": 5, "ponytail": 1},
+        {"length": 1, "forehead": 6, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Girl_Hair_0006": {
+      "hair_infos": [
+        {"length": 1, "forehead": 7, "ponytail": 1},
+        {"length": 1, "forehead": 5, "ponytail": 0},
+        {"length": 1, "forehead": 6, "ponytail": 0},
+        {"length": 1, "forehead": 7, "ponytail": 0}
+      ]
+    },
+    "ZEGOQ_Share_Hair_0014": {
+      "hair_infos": [
+        {"length": 2, "forehead": 0, "ponytail": 0},
+        {"length": 2, "forehead": 0, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Girl_Hair_0001": {
+      "hair_infos": [
+        {"length": 2, "forehead": 1, "ponytail": 0},
+        {"length": 2, "forehead": 1, "ponytail": 1},
+        {"length": 2, "forehead": 2, "ponytail": 1},
+        {"length": 2, "forehead": 2, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Share_Hair_0013": {
+      "hair_infos": [
+        {"length": 2, "forehead": 3, "ponytail": 0},
+        {"length": 2, "forehead": 3, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Share_Hair_0015": {
+      "hair_infos": [
+        {"length": 2, "forehead": 4, "ponytail": 0},
+        {"length": 2, "forehead": 4, "ponytail": 1},
+        {"length": 2, "forehead": 8, "ponytail": 0},
+        {"length": 2, "forehead": 8, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Girl_Hair_0003": {
+      "hair_infos": [
+        {"length": 2, "forehead": 5, "ponytail": 0},
+        {"length": 2, "forehead": 5, "ponytail": 1},
+        {"length": 2, "forehead": 6, "ponytail": 0},
+        {"length": 2, "forehead": 6, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Share_Hair_0012": {
+      "hair_infos": [
+        {"length": 2, "forehead": 7, "ponytail": 0},
+        {"length": 2, "forehead": 7, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Share_Hair_0004": {
+      "hair_infos": [
+        {"length": 3, "forehead": 0, "ponytail": 0},
+        {"length": 3, "forehead": 0, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Share_Hair_0001": {
+      "hair_infos": [
+        {"length": 3, "forehead": 1, "ponytail": 0},
+        {"length": 3, "forehead": 1, "ponytail": 1},
+        {"length": 3, "forehead": 2, "ponytail": 0},
+        {"length": 3, "forehead": 2, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Share_Hair_0007": {
+      "hair_infos": [
+        {"length": 3, "forehead": 3, "ponytail": 0},
+        {"length": 3, "forehead": 3, "ponytail": 1},
+        {"length": 3, "forehead": 7, "ponytail": 0},
+        {"length": 3, "forehead": 7, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Share_Hair_0008": {
+      "hair_infos": [
+        {"length": 3, "forehead": 4, "ponytail": 0},
+        {"length": 3, "forehead": 4, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Share_Hair_0005": {
+      "hair_infos": [
+        {"length": 3, "forehead": 5, "ponytail": 0},
+        {"length": 3, "forehead": 5, "ponytail": 1},
+        {"length": 3, "forehead": 6, "ponytail": 0},
+        {"length": 3, "forehead": 6, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Share_Hair_0009": {
+      "hair_infos": [
+        {"length": 3, "forehead": 8, "ponytail": 0},
+        {"length": 3, "forehead": 8, "ponytail": 1}
+      ]
+    },
+    "ZEGOQ_Share_Hair_0006": {
+      "hair_infos": [
+        {"length": 4,  "ponytail": 0},
+        {"length": 4,  "ponytail": 1}
+      ]
+    }
+  },
+  "glasses_detection_map": {
+
+    "-1": "ZEGOQ_Share_Glass_0003_0005"
+  }
+}

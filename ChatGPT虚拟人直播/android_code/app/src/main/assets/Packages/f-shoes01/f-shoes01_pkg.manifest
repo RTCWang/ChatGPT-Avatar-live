@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3411688738
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 409b2f87056bab909f2faf13322b7d06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4ff05ef4c22e8eeecbab0dce10af408a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABSrc/shoes/female/shoes01/shoes.mat
+- Assets/ABSrc/shoes/female/shoes01/textures/zego_girl_shoes_0001_0001_basecolor.tga
+- Assets/ABSrc/shoes/female/shoes01/textures/ZEGO_Girl_Shoes_0001_0004_Ao.tga
+- Assets/ABSrc/shoes/female/shoes01/textures/zego_girl_shoes_0001_0002_normal.tga
+- Assets/ABSrc/shoes/female/shoes01/shoes.prefab
+- Assets/ABSrc/shoes/female/shoes01/textures/ZEGO_Girl_Shoes_0001_0003_Metalness_smoothness.tga
+- Assets/ABSrc/shoes/fbx/ZEGO_Girl_Shoes_0001.fbx
+- Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+Dependencies: []

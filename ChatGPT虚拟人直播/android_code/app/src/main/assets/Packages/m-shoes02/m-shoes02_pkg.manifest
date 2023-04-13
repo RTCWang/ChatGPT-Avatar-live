@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 959002137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68e9923802d32501945fa1178b544995
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4ff05ef4c22e8eeecbab0dce10af408a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABSrc/shoes/male/shoes02/shoes.mat
+- Assets/ABSrc/shoes/male/shoes02/shoes.prefab
+- Assets/ABSrc/shoes/male/shoes02/textures/ZEGO_Man_Shoes_0001_0011_Metalness_smoothness.tga
+- Assets/ABSrc/shoes/male/shoes02/textures/ZEGO_Man_Shoes_0001_0012_Ao.tga
+- Assets/ABSrc/shoes/fbx/ZEGO_Man_Socks_0001.fbx
+- Assets/ABSrc/shoes/male/shoes01/textures/ZEGO_Man_Socks_0001_0003_Metalness_smoothness.tga
+- Assets/ABSrc/shoes/male/shoes02/textures/zego_man_shoes_0001_0004_basecolor.tga
+- Assets/ABSrc/shoes/fbx/ZEGO_Man_Shoes_0001.fbx
+- Assets/ABSrc/shoes/male/shoes02/textures/zego_man_shoes_0001_0005_normal.tga
+- Assets/ABSrc/shoes/male/shoes01/textures/zego_man_socks_0001_0001_basecolor.tga
+- Assets/ABSrc/shoes/male/shoes01/textures/zego_man_socks_0001_0002_normal.tga
+- Assets/ABSrc/shoes/male/shoes01/socks.mat
+- Assets/ABSrc/shoes/male/shoes01/textures/ZEGO_Man_Socks_0001_0004_Ao.tga
+- Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+Dependencies: []

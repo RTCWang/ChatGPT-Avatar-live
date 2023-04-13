@@ -1,0 +1,37 @@
+{
+    "modelID": "male",
+    "modelPath": "AssetBundles/bundle/qbody/Boy.prefab",
+    "property": {
+        "faceshape_brow_size_y": 0.5,
+        "faceshape_brow_size_x": 0.5,
+        "faceshape_brow_all_y": 0.5,
+        "faceshape_brow_all_roll_z": 0.5,
+        "faceshape_eye_size": 0.5,
+        "faceshape_eye_size_y": 0.5,
+        "faceshape_eye_roll_y": 0.5,
+        "faceshape_eye_roll_z": 0.5,
+        "faceshape_eye_x": 0.5,
+        "faceshape_nose_all_x": 0.5,
+        "faceshape_nose_all_y": 0.5,
+        "faceshape_nose_all_roll_y": 0.5,
+        "faceshape_nostril_roll_y": 0.5,
+        "faceshape_mouth_all_y": 0.5,
+        "faceshape_lip_all_size_y": 0.5,
+        "faceshape_lipcorner_y": 0.5,
+        "faceshape_lip_upper_size_x": 0.5,
+        "faceshape_lip_lower_size_x": 0.5,
+        "faceshape_jaw_all_size_x": 0.5,
+        "faceshape_jaw_y": 0.5,
+        "faceshape_cheek_all_size_x": 0.5,
+        "hair_root_color": "255,0,0,0",
+        "hair_end_color": "255,0,0,0"
+    },
+    "package": {
+        "shirt": "ZEGOQ_Share_Tshirt_0001_0001",
+        "pants": "ZEGOQ_Share_Pants_0002_0001",
+        "shoes": "ZEGOQ_Share_Shoes_0001_0002",
+        "hair": "ZEGOQ_Share_Hair_0001",
+        "eyelash": "ZEGOQ_Man_Eyelash_0001_0004_BaseColor",
+        "browshape": "Browshape_02_Man"
+    }
+}

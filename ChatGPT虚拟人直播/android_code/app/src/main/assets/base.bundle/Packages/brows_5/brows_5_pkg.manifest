@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2555884699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a5cfc72fc4e9c2f2a65c6a4606fb9646
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABSrc/image/brows/brows_5.png
+Dependencies: []

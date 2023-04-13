@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@waylaidwanderer/chatgpt-api": "^1.32.8",
+    "bing-chat": "^0.2.3",
+    "block-queue": "^0.0.2",
+    "body-parser": "^1.20.0",
+    "chatgpt": "^5.1.2",
+    "express": "^4.18.1",
+    "fake-indexeddb": "^4.0.0",
+    "https-proxy-agent": "^5.0.1",
+    "jsdom": "^20.0.0",
+    "node-fetch": "^3.3.1",
+    "node-localstorage": "^2.2.1",
+    "openai-authenticator": "^0.0.3",
+    "sydney-ai": "^1.0.1"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "models": {
+        "face_feature": "face_feature.1.4.5.model",
+        "face_mesh": "facemesh.1.4.5.model",
+        "voice_feature": "voice.1.4.5.model"
+    }
+}

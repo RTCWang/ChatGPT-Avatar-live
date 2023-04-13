@@ -1,0 +1,20 @@
+{
+  "properties": [
+    {
+      "extInfo": {
+        "images": [
+          "{@builtin_abpath}/zego_man_pants_0001_0002_pkg/ZEGO_Man_Pants_0001_0001_Mask.tga"
+        ]
+      },
+      "property": "cloth_kuzi",
+      "value": "{@builtin_abpath}/zego_man_pants_0001_0002_pkg/ZEGO_Man_Pants_0001_0002.prefab",
+      "type": "pants"
+    },
+    {
+      "extInfo": null,
+      "property": "cloth_taozhuang",
+      "value": "",
+      "type": "suit"
+    }
+  ]
+}

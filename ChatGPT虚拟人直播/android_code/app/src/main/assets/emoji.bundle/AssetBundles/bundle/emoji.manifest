@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1470667025
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2fc258056e2a91ae829d06fdbad2fe0b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 32904f931e618ff9dc66fdeb7e7b87e6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85d1483edd3b64a76ac7a7db15906c7d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26f1ef9d2422c4d4ab5d2c1b0b13f247, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: feacc93e0736a4a488feb08e7820bd29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f82f795ec8736448ca0dda5e7265cf3c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf44f777bb5e541498d7b95c8e96d653, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e381ab0df5654aed9ff3fb4799df042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb0b5ec266b774291bea69f6612efe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 947927d74caba4901bfed3c1b384a32f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44ec2a9ea8af14defb03f67496f4aee6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/InnerSrc/model/Emoji/Male_faceshape.txt
+- Assets/InnerSrc/model/Emoji/urp/Male.prefab
+- Assets/InnerSrc/model/Emoji/Female_faceshape.txt
+- Assets/InnerSrc/model/Emoji/urp/Female.prefab
+Dependencies: []

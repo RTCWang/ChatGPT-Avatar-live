@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3471185426
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2dd96f5ee641e9d77109b7551f5daf7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d2c055144642f8db1fe4ebc698f8be03
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 606b5b12aecc44448b7df9bb292600fa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Src/Avatar_Q/cloth_kuzi/ZEGOQ_Share_Pants_0001_0001/ZEGOQ_Share_Pants_0001_0001.prefab
+- Assets/Src/Avatar_Q/cloth_kuzi/ZEGOQ_Share_Pants_0001_0001/Materials/ZEGOQ_Share_Pants_0001_Shader_0001.mat
+- Assets/Src/Avatar_Q/cloth_kuzi/ZEGOQ_Share_Pants_0001_0001/ZEGOQ_Share_Pants_0001.fbx
+- Assets/Src/Avatar_Q/cloth_kuzi/ZEGOQ_Share_Pants_0001_0001/textures/ZegoQ_Share_Pants_0001_0001_BaseColor.tga
+- Assets/Src/Avatar_Q/cloth_kuzi/ZEGOQ_Share_Pants_0001_0001/textures/ZegoQ_Share_Pants_0001_0001_Roughness_Metalness.tga
+- Assets/Src/Avatar_Q/cloth_kuzi/ZEGOQ_Share_Pants_0001_0001/ZEGOQ_Share_Pants_0001_0001_Mask_Man.tga
+- Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+- Assets/Src/Avatar_Q/cloth_kuzi/ZEGOQ_Share_Pants_0001_0001/textures/ZegoQ_Share_Pants_0001_0001_Normal.tga
+- Assets/Src/Avatar_Q/cloth_kuzi/ZEGOQ_Share_Pants_0001_0001/ZEGOQ_Share_Pants_0001_0001_Mask_Girl.tga
+Dependencies: []

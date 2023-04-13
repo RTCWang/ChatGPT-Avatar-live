@@ -1,0 +1,20 @@
+{
+  "properties": [
+    {
+      "materials": [
+        "ZEGOQ_Share_Hair_0001_Shader_0001"
+      ],
+      "extInfo": {
+        "updateBlendshape": null,
+        "blendshapeControl": null,
+        "magicaConfig": null
+      },
+      "property": "{\"type\":\"prefab\",\"id\":\"Hair\"}",
+      "value": "{@builtin_abpath}/zegoq_share_hair_0001_pkg/ZEGOQ_Share_Hair_0001.prefab",
+      "type": "hair"
+    }
+  ],
+  "version": "1.0.0",
+  "sdkVersion": "1.0.0",
+  "platform": "android"
+}

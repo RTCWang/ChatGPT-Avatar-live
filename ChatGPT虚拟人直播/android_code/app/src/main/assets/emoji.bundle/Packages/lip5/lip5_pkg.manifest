@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1702941282
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 065002660ad121003ab78b8b9910593e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABSrc/image/lip/Lip5.png
+Dependencies: []

@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 3479464044
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53ea54bc74a169240f197022f3928951
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 99b0f135748e29d2d5a5a99f93a44764
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0fc74db9faf841f1a62ae5db3112a8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b926eb37fed1d748b80e3b4756bc569, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0548f9dc46468d94c96cbbd1e5c05f74, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2b8ed8fdca875474bbc1b8d6dcfb79bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9a46f10ea60e452a9b608a72d4e416c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5479bb56a42b7f94bbae5d75fe03f75d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 606b5b12aecc44448b7df9bb292600fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6469ef53c48c4609941f1c1d115e30d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: MagicaCloth
+  ClassName: MagicaCloth.BezierParam
+- AssemblyName: MagicaCloth
+  ClassName: MagicaCloth.BoneClothTarget
+- AssemblyName: MagicaCloth
+  ClassName: MagicaCloth.ClampDistanceConstraint/ClampDistanceData
+- AssemblyName: MagicaCloth
+  ClassName: MagicaCloth.ClothParams
+- AssemblyName: MagicaCloth
+  ClassName: MagicaCloth.CompositeRotationConstraint/RootInfo
+- AssemblyName: MagicaCloth
+  ClassName: MagicaCloth.CompositeRotationConstraint/RotationData
+- AssemblyName: MagicaCloth
+  ClassName: MagicaCloth.LineWorker/LineRotationData
+- AssemblyName: MagicaCloth
+  ClassName: MagicaCloth.LineWorker/LineRotationRootInfo
+- AssemblyName: MagicaCloth
+  ClassName: MagicaCloth.PenetrationConstraint/PenetrationData
+- AssemblyName: MagicaCloth
+  ClassName: MagicaCloth.PhysicsTeamData
+- AssemblyName: MagicaCloth
+  ClassName: MagicaCloth.ReferenceDataIndex
+- AssemblyName: MagicaCloth
+  ClassName: MagicaCloth.RestoreDistanceConstraint/RestoreDistanceData
+- AssemblyName: MagicaCloth
+  ClassName: MagicaCloth.SelectionData/DeformerSelection
+- AssemblyName: Unity.Mathematics
+  ClassName: Unity.Mathematics.float3
+- AssemblyName: Unity.Mathematics
+  ClassName: Unity.Mathematics.float4
+- AssemblyName: Unity.Mathematics
+  ClassName: Unity.Mathematics.quaternion
+Assets:
+- Assets/Src/Avatar_Q/Hair/ZEGOQ_Share_Hair_0001/ZEGOQ_Share_Hair_0001.fbx
+- Assets/Src/Avatar_Q/Hair/ZEGOQ_Share_Hair_0001/textures/ZEGOQ_Share_Hair_0001_0001_Ao.tga
+- Assets/Third_Packages/MagicaCloth/Res/Icon/icon-bone-cloth.png
+- Assets/Src/Avatar_Q/Hair/ZEGOQ_Share_Hair_0001/textures/ZEGOQ_Share_Hair_0001_0001_BaseColor.tga
+- Assets/Src/Avatar_Q/Hair/ZEGOQ_Share_Hair_0001/ZEGOQ_Share_Hair_0001.prefab
+- Assets/Src/Avatar_Q/Hair/ZEGOQ_Share_Hair_0001/magicaConfig.json
+- Assets/Shader/URP/QHuman/ZegoQHumanHair.shader
+- Assets/Src/Avatar_Q/Hair/ZEGOQ_Share_Hair_0001/textures/ZEGOQ_Share_Hair_0001_0001_Normal.tga
+- Assets/Src/Avatar_Q/Hair/ZEGOQ_Share_Hair_0001/Materials/ZEGOQ_Share_Hair_0001_Shader_0001.mat
+Dependencies: []

@@ -1,0 +1,20 @@
+{
+  "properties": [
+    {
+      "materials": [
+        "ZEGO_Girl_Hair_0005_Shader_0001"
+      ],
+      "extInfo": {
+        "updateBlendshape": null,
+        "blendshapeControl": null,
+        "magicaConfig": null
+      },
+      "property": "{\"type\":\"prefab\",\"id\":\"Hair\"}",
+      "value": "{@builtin_abpath}/zego_girl_hair_0005_pkg/ZEGO_Girl_Hair_0005.prefab",
+      "type": "hair"
+    }
+  ],
+  "version": "1.0.0",
+  "sdkVersion": "1.0.0",
+  "platform": "android"
+}

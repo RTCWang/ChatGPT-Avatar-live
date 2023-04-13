@@ -1,0 +1,9 @@
+{
+    "properties": [
+        {
+            "property": "{\"classify\":\"texture\",\"id\":\"_MainTex\",\"matName\":\"Irises\",\"matNodeName\":\"ZEGO_Shape\",\"type\":\"mat_property\"}",
+            "value": "{@builtin_abpath}/irises1_pkg/Irises1.jpg",
+            "type": "irises"
+        }
+    ]
+}

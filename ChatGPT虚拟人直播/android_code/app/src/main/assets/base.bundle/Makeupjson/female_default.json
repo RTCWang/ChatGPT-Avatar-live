@@ -1,0 +1,42 @@
+{
+    "modelID": "female",
+    "modelPath": "AssetBundles/bundle/model/Female.prefab",
+    "property": {
+        "faceshape_brow_size_y": 0.5,
+        "faceshape_brow_size_x": 0.5,
+        "faceshape_brow_all_y": 0.5,
+        "faceshape_brow_all_roll_z": 0.5,
+        "faceshape_eye_size": 0.5,
+        "faceshape_eye_roll_y": 0.5,
+        "faceshape_eye_roll_z": 0.5,
+        "faceshape_eye_x": 0.5,
+        "faceshape_nose_all_x": 0.5,
+        "faceshape_nose_all_y": 0.5,
+        "faceshape_nose_size_z": 0.5,
+        "faceshape_nose_all_roll_y": 0.5,
+        "faceshape_nostril_roll_y": 0.5,
+        "faceshape_nostril_x" : 0.5,
+        "faceshape_mouth_all_y": 0.5,
+        "faceshape_lip_all_size_y": 0.5,
+        "faceshape_lipcorner_y": 0.5,
+        "faceshape_lip_upper_size_x": 0.5,
+        "faceshape_lip_lower_size_x": 0.5,
+        "faceshape_jaw_all_size_x": 0.5,
+        "faceshape_jaw_y": 0.5,
+        "faceshape_cheek_all_size_x": 0.5,
+        "hair_root_color": "255,0,0,0",
+        "hair_end_color": "255,0,0,0",
+        "skin_color_coordinates":"0.33, 0.33"
+    },
+    "package": {
+        "hair": "f-hair9",
+        "beard": "m-beard_empty",
+        "earphone": "earphone_empty",
+        "earring": "earring_empty",
+        "brows": "brows_1",
+        "facepaint": "facepaint_empty",
+        "glasses": "glasses_empty",
+        "irises": "irises1",
+        "lip": "lip5"
+    }
+}

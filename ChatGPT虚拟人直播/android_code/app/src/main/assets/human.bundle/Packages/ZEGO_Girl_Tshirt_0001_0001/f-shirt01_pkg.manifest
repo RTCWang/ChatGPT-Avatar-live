@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1675771983
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e03c42ec77eb1e8278c4def0c4dd701c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4ff05ef4c22e8eeecbab0dce10af408a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABSrc/shirt/female/shirt01/shirt.mat
+- Assets/ABSrc/shirt/female/shirt01/textures/zego_girl_tshirt_0001_0001_basecolor.tga
+- Assets/ABSrc/shirt/female/shirt01/shirt.prefab
+- Assets/ABSrc/shirt/fbx/ZEGO_Girl_Tshirt_0001.fbx
+- Assets/ABSrc/shirt/female/shirt01/textures/ZEGO_Girl_Tshir_0001_0004_Ao.tga
+- Assets/ABSrc/shirt/female/shirt01/textures/ZEGO_Girl_Tshir_0001_0003_Metalness_smoothness.tga
+- Assets/ABSrc/shirt/female/shirt01/textures/zego_girl_tshirt_0001_0002_normal.tga
+- Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+Dependencies: []

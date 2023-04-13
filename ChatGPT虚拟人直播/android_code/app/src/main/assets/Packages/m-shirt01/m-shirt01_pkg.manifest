@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 833479497
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b05646c0bd5792f50592329787da708
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4ff05ef4c22e8eeecbab0dce10af408a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Src/cloth_shangyi/m-shirt01/ZEGO_Man_Tshirt_Shader_0001.mat
+- Assets/Src/cloth_shangyi/m-shirt01/ZEGO_Man_Tshirt_0001_0001_Mask.tga
+- Assets/Src/cloth_shangyi/m-shirt01/m-shirt01.fbx
+- Assets/Src/cloth_shangyi/m-shirt01/m-shirt01.prefab
+- Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+Dependencies: []

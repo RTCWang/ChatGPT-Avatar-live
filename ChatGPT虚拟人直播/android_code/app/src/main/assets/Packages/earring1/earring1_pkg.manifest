@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4159363896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 144f3a48212c8ae1bf535426d4ccc83c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5be3e132f06fd4dc1961db8607065ba7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABSrc/earring/Earring1/prefab/urp/Earring1.prefab
+- Assets/ABSrc/earring/Earring1/material/urp/blinn1.mat
+- Assets/ABSrc/earring/Earring1/FBX/Mate_Earrings_Mesh_Bind_01.fbx
+- Assets/Shader/URP/ZegoLit.shader
+- Assets/ABSrc/earring/Earring1/material/inner/blinn1.mat
+Dependencies: []

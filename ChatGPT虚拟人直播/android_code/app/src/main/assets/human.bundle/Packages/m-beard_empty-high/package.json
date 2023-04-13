@@ -1,0 +1,9 @@
+{
+    "properties": [
+        {
+            "property": "{\"id\":\"Beard\",\"type\":\"script\"}",
+            "value": "{\"FurNoise\":\"\"}",
+            "type": "beard"
+        }
+    ]
+}

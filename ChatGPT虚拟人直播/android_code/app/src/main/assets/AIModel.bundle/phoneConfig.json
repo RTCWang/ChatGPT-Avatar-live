@@ -1,0 +1,20 @@
+{
+  "phoneDefaultParam": {
+    "skybox": "true",
+    "fps": 30,
+    "shadow": 2,
+    "showAvatar": "true"
+  },
+  "Redmi Note 8": {
+    "skybox": "false",
+    "fps": 30,
+    "shadow": 0,
+    "showAvatar": "true"
+  },
+  "V1945A": {
+    "skybox": "false",
+    "fps": 30,
+    "shadow": 0,
+    "showAvatar": "true"
+  }
+}

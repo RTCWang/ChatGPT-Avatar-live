@@ -1,0 +1,9 @@
+{
+    "properties": [
+        {
+            "property": "{\"type\":\"prefab\",\"id\":\"Hair\"}",
+            "value": "{@builtin_abpath}/m-hair2_pkg/M-Hair2.prefab",
+            "type": "hair"
+        }
+    ]
+}

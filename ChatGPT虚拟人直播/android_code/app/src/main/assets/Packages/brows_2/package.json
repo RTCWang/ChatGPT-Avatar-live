@@ -1,0 +1,9 @@
+{
+    "properties": [
+        {
+            "property": "{\"classify\":\"combiner\",\"id\":\"combinermakeup_eyebrow\",\"matName\":\"Skin\",\"matNodeName\":\"ZEGO_Shape\",\"type\":\"mat_property\"}",
+            "value": "{@builtin_abpath}/brows_2_pkg/brows_2.png",
+            "type": "brows"
+        }
+    ]
+}

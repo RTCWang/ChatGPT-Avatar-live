@@ -1,0 +1,159 @@
+{
+  "hair_detection_map": {
+    "default_hair_key": "f-hair9",
+    "f-hair1": {
+      "hair_infos": [
+        {"length": 0, "forehead": 0, "ponytail": 0},
+        {"length": 0, "forehead": 0, "ponytail": 1},
+        {"length": 0, "forehead": 3, "ponytail": 0},
+        {"length": 0, "forehead": 3, "ponytail": 1}
+      ]
+    },
+    "f-hair1_1": {
+      "hair_infos": [
+        {"length": 0, "forehead": 1, "ponytail": 0},
+        {"length": 0, "forehead": 1, "ponytail": 1}
+      ]
+    },
+    "f-hair1_2": {
+      "hair_infos": [
+        {"length": 0, "forehead": 2, "ponytail": 0},
+        {"length": 0, "forehead": 2, "ponytail": 1}
+      ]
+    },
+    "f-hair12": {
+      "hair_infos": [
+        {"length": 0, "forehead": 4, "ponytail": 0},
+        {"length": 0, "forehead": 4, "ponytail": 1},
+        {"length": 0, "forehead": 8, "ponytail": 0},
+        {"length": 0, "forehead": 8, "ponytail": 1}
+      ]
+    },
+    "f-hair8_2": {
+      "hair_infos": [
+        {"length": 0, "forehead": 5, "ponytail": 0},
+        {"length": 0, "forehead": 5, "ponytail": 1}
+      ]
+    },
+    "f-hair8_1": {
+      "hair_infos": [
+        {"length": 0, "forehead": 6, "ponytail": 0},
+        {"length": 0, "forehead": 6, "ponytail": 1}
+      ]
+    },
+    "f-hair8_3": {
+      "hair_infos": [
+        {"length": 0, "forehead": 7, "ponytail": 0},
+        {"length": 0, "forehead": 7, "ponytail": 1}
+      ]
+    },
+    "f-hair3_1": {
+      "hair_infos": [
+        {"length": 1, "forehead": 0, "ponytail": 0},
+        {"length": 1, "forehead": 3, "ponytail": 0},
+        {"length": 1, "forehead": 7, "ponytail": 0}
+      ]
+    },
+    "f-hair4_1": {
+      "hair_infos": [
+        {"length": 1, "forehead": 0, "ponytail": 1},
+        {"length": 1, "forehead": 3, "ponytail": 1},
+        {"length": 1, "forehead": 7, "ponytail": 1}
+      ]
+    },
+    "f-hair3_2": {
+      "hair_infos": [
+        {"length": 1, "forehead": 1, "ponytail": 0}
+      ]
+    },
+    "f-hair4_2": {
+      "hair_infos": [
+        {"length": 1, "forehead": 1, "ponytail": 1}
+      ]
+    },
+    "f-hair3_3": {
+      "hair_infos": [
+        {"length": 1, "forehead": 2, "ponytail": 0}
+      ]
+    },
+    "f-hair4_3": {
+      "hair_infos": [
+        {"length": 1, "forehead": 2, "ponytail": 1}
+      ]
+    },
+    "f-hair3": {
+      "hair_infos": [
+        {"length": 1, "forehead": 4, "ponytail": 0},
+        {"length": 1, "forehead": 8, "ponytail": 0}
+      ]
+    },
+    "f-hair4": {
+      "hair_infos": [
+        {"length": 1, "forehead": 4, "ponytail": 1},
+        {"length": 1, "forehead": 8, "ponytail": 1}
+      ]
+    },
+    "f-hair6_1": {
+      "hair_infos": [
+        {"length": 1, "forehead": 5, "ponytail": 0}
+      ]
+    },
+    "f-hair7_1": {
+      "hair_infos": [
+        {"length": 1, "forehead": 5, "ponytail": 1}
+      ]
+    },
+    "f-hair6": {
+      "hair_infos": [
+        {"length": 1, "forehead": 6, "ponytail": 0}
+      ]
+    },
+    "f-hair7": {
+      "hair_infos": [
+        {"length": 1, "forehead": 6, "ponytail": 1}
+      ]
+    },
+    "f-hair1_3": {
+      "hair_infos": [
+        {"length": 2, "forehead": 0, "ponytail": 0},
+        {"length": 2, "forehead": 0, "ponytail": 1}
+      ]
+    },
+    "f-hair5": {
+      "hair_infos": [
+        {"length": 2, "forehead": 1, "ponytail": 0},
+        {"length": 2, "forehead": 1, "ponytail": 1}
+      ]
+    },
+    "f-hair5_1": {
+      "hair_infos": [
+        {"length": 2, "forehead": 2, "ponytail": 0},
+        {"length": 2, "forehead": 2, "ponytail": 1}
+      ]
+    },
+    "f-hair1_4": {
+      "hair_infos": [
+        {"length": 2, "forehead": 3, "ponytail": 0},
+        {"length": 2, "forehead": 3, "ponytail": 1}
+      ]
+    },
+    "f-hair9": {
+      "hair_infos": [
+        {"length": 2, "forehead": 4, "ponytail": 0},
+        {"length": 2, "forehead": 4, "ponytail": 1},
+        {"length": 2, "forehead": 8, "ponytail": 0},
+        {"length": 2, "forehead": 8, "ponytail": 1}
+      ]
+    },
+    "f-hair10": {
+      "hair_infos": [
+        {"length": 2, "forehead": 5, "ponytail": 0},
+        {"length": 2, "forehead": 5, "ponytail": 1},
+        {"length": 2, "forehead": 6, "ponytail": 0},
+        {"length": 2, "forehead": 6, "ponytail": 1},
+        {"length": 2, "forehead": 7, "ponytail": 0},
+        {"length": 2, "forehead": 7, "ponytail": 1}
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 1903086498
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7d8544585751a3917305a83c634819c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d428728c9bb42cfd5c8b13d2085fff0e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85d1483edd3b64a76ac7a7db15906c7d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26f1ef9d2422c4d4ab5d2c1b0b13f247, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a32d7d675d33404d93a232a3f35f5c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dfae0319c0c09431f8e908ca2607558d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f1325f8f405c46eaa9927cbd2b22710, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf44f777bb5e541498d7b95c8e96d653, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e381ab0df5654aed9ff3fb4799df042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b1e084b2b41043ea889123c467f314f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b90de5dadd334786a8bae73429aa48b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44ec2a9ea8af14defb03f67496f4aee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b40f82245a0a4985ae3aafed0fc507d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/InnerSrc/model/Human/urp/MaleBody.prefab
+- Assets/InnerSrc/model/Human/urp/FemaleBody_faceshape.txt
+- Assets/InnerSrc/model/Human/urp/FemaleBody.prefab
+- Assets/InnerSrc/model/Human/urp/MaleBody_faceshape.txt
+Dependencies: []

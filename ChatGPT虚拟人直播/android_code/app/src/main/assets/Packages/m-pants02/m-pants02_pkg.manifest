@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1511886021
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8df6ec2ba8321bb253e5937cb53500c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4ff05ef4c22e8eeecbab0dce10af408a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Src/cloth_kuzi/m-pants02/Default_Material.mat
+- Assets/Src/cloth_kuzi/m-pants02/textures/ZEGO_Man_Pants_0001_0015_Metalness_smoothness.tga
+- Assets/Src/cloth_kuzi/m-pants02/textures/ZEGO_Man_Pants_0001_0016_Ao.tga
+- Assets/Src/cloth_kuzi/m-pants02/textures/zego_man_pants_0001_0004_basecolor.tga
+- Assets/Src/cloth_kuzi/m-pants02/ZEGO_Man_Pants_0001_0001_Mask.tga
+- Assets/Src/cloth_kuzi/m-pants02/m-pants02.prefab
+- Assets/Src/cloth_kuzi/m-pants02/m-pants02.fbx
+- Assets/Src/cloth_kuzi/m-pants02/textures/zego_man_pants_0001_0005_normal.tga
+- Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+Dependencies: []

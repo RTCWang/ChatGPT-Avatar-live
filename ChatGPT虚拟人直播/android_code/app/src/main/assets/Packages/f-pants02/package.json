@@ -1,0 +1,14 @@
+{
+    "properties": [
+
+        {
+            "property": "cloth_kuzi",
+            "value": "{@builtin_abpath}/f-pants02_pkg/pants.prefab",
+            "type": "pants"
+        },{
+            "property": "cloth_taozhuang",
+            "value": "",
+            "type": "suit"
+        }
+    ]
+}

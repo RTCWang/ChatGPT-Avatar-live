@@ -1,0 +1,22 @@
+{
+    "properties": [
+        {
+            "extInfo": {
+                "images": null,
+                "updateBlendshape": [
+                    {
+                        "nodeName": "Hair",
+                        "blendshape": {
+                            "ZEGOQ_Hair.HairShape_Cap_01": 0.0,
+                            "ZEGOQ_Hair.HairShape_Cap_02": 0.0
+                        }
+                    }
+                ],
+                "magicaConfig": null
+            },
+            "property": "{\"type\":\"prefab\",\"id\":\"Hat\"}",
+            "value": "",
+            "type": "hat"
+        }
+    ]
+}
